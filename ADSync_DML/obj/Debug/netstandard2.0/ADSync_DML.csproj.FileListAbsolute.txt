@@ -1,0 +1,7 @@
+D:\SelfProject\ADSync_New\ADSync_DML\bin\Debug\netstandard2.0\ADSync_DML.deps.json
+D:\SelfProject\ADSync_New\ADSync_DML\bin\Debug\netstandard2.0\ADSync_DML.dll
+D:\SelfProject\ADSync_New\ADSync_DML\bin\Debug\netstandard2.0\ADSync_DML.pdb
+D:\SelfProject\ADSync_New\ADSync_DML\obj\Debug\netstandard2.0\ADSync_DML.AssemblyInfoInputs.cache
+D:\SelfProject\ADSync_New\ADSync_DML\obj\Debug\netstandard2.0\ADSync_DML.AssemblyInfo.cs
+D:\SelfProject\ADSync_New\ADSync_DML\obj\Debug\netstandard2.0\ADSync_DML.dll
+D:\SelfProject\ADSync_New\ADSync_DML\obj\Debug\netstandard2.0\ADSync_DML.pdb

@@ -1,0 +1,8 @@
+D:\SelfProject\ADSync_New\ADSync_Utility\bin\Debug\netstandard2.0\ADSync_Utility.deps.json
+D:\SelfProject\ADSync_New\ADSync_Utility\bin\Debug\netstandard2.0\ADSync_Utility.dll
+D:\SelfProject\ADSync_New\ADSync_Utility\obj\Debug\netstandard2.0\ADSync_Utility.csprojAssemblyReference.cache
+D:\SelfProject\ADSync_New\ADSync_Utility\obj\Debug\netstandard2.0\ADSync_Utility.AssemblyInfoInputs.cache
+D:\SelfProject\ADSync_New\ADSync_Utility\obj\Debug\netstandard2.0\ADSync_Utility.AssemblyInfo.cs
+D:\SelfProject\ADSync_New\ADSync_Utility\bin\Debug\netstandard2.0\ADSync_Utility.pdb
+D:\SelfProject\ADSync_New\ADSync_Utility\obj\Debug\netstandard2.0\ADSync_Utility.dll
+D:\SelfProject\ADSync_New\ADSync_Utility\obj\Debug\netstandard2.0\ADSync_Utility.pdb
